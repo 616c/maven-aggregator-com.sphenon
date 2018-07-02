@@ -14,6 +14,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <modules>
+    <module>com.sphenon.sphenon-module</module>
     <module>com.sphenon.components.basics.context</module>
   </modules>
 
