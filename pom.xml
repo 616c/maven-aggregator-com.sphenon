@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <name>ObjectAssembler</name>
+  <url>http://www.sphenon.com</url>
+
+  <artifactId>maven-aggregator</artifactId>
+  <groupId>com.sphenon</groupId>
+  <version>1.0.0</version>
+
+  <packaging>pom</packaging>
+  <modelVersion>4.0.0</modelVersion>
+
+  <!--
+  <parent>
+    <artifactId>sphenon-module</artifactId>
+    <groupId>com.sphenon</groupId>
+    <version>1.0.0</version>
+  </parent>
+  -->
+  <modules>
+    <!--
+    <module>../../../projects/components/basics/context</module>
+    <module>../../../projects/components/basics/variatives</module>
+    <module>../../../projects/components/basics/message</module>
+    <module>../../../projects/components/basics/exception</module>
+    <module>../../../projects/components/basics/system</module>
+    <module>../../../projects/components/basics/encoding</module>
+    <module>../../../projects/components/basics/expression</module>
+    <module>../../../projects/components/basics/notification</module>
+    <module>../../../projects/components/basics/configuration</module>
+    <module>../../../projects/components/basics/configurationap</module>
+    <module>../../../projects/components/basics/factory</module>
+    <module>../../../projects/components/basics/retriever</module>
+    <module>../../../projects/components/basics/interaction</module>
+    <module>../../../projects/components/basics/smallparts</module>
+    <module>../../../projects/components/basics/many</module>
+    <module>../../../projects/components/basics/reference</module>
+    <module>../../../projects/components/basics/metadata</module>
+    <module>../../../projects/components/basics/data</module>
+    <module>../../../projects/components/basics/variativeinst</module>
+    <module>../../../projects/components/basics/javacode</module>
+    <module>../../../projects/components/basics/locating</module>
+    <module>../../../projects/components/basics/accessory</module>
+    <module>../../../projects/components/basics/graph</module>
+    <module>../../../projects/components/basics/services</module>
+    <module>../../../projects/components/basics/xml</module>
+    <module>../../../projects/components/formats/json</module>
+    <module>../../../projects/components/formats/yaml</module>
+    <module>../../../projects/components/basics/event</module>
+    <module>../../../projects/components/basics/application</module>
+    <module>../../../projects/components/engines/factorysite</module>
+    <module>../distribution</module>
+    -->
+  </modules>
+
+</project>
