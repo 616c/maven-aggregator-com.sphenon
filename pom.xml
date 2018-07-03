@@ -16,6 +16,47 @@
   <modules>
     <module>com.sphenon.sphenon-module</module>
     <module>com.sphenon.components.basics.context</module>
+    <module>com.sphenon.components.basics.reference</module>
+    <module>com.sphenon.components.basics.variatives</module>
+    <module>com.sphenon.components.basics.message</module>
+    <module>com.sphenon.components.basics.exception</module>
+    <module>com.sphenon.components.basics.configuration</module>
+    <module>com.sphenon.components.basics.configurationap</module>
+    <module>com.sphenon.components.basics.notification</module>
+    <module>com.sphenon.components.basics.notificationlog4j</module>
+    <module>com.sphenon.components.basics.system</module>
+    <module>com.sphenon.components.basics.smallparts</module>
+    <module>com.sphenon.components.basics.services</module>
+    <module>com.sphenon.components.basics.encoding</module>
+    <module>com.sphenon.components.basics.expression</module>
+    <module>com.sphenon.components.basics.configurationjs</module>
+    <module>com.sphenon.components.basics.factory</module>
+    <module>com.sphenon.components.basics.retriever</module>
+    <module>com.sphenon.components.basics.interaction</module>
+    <module>com.sphenon.components.basics.many</module>
+    <module>com.sphenon.components.basics.event</module>
+    <module>com.sphenon.components.basics.operations</module>
+    <module>com.sphenon.components.basics.testing</module>
+    <module>com.sphenon.components.basics.metadata</module>
+    <module>com.sphenon.components.basics.accessory</module>
+    <module>com.sphenon.components.basics.locating</module>
+    <module>com.sphenon.components.basics.actor</module>
+    <module>com.sphenon.components.basics.aspects</module>
+    <module>com.sphenon.components.basics.security</module>
+    <module>com.sphenon.components.basics.data</module>
+    <module>com.sphenon.components.basics.application</module>
+    <module>com.sphenon.components.basics.javacode</module>
+    <module>com.sphenon.components.basics.graph</module>
+    <module>com.sphenon.components.basics.graphgithub</module>
+    <module>com.sphenon.components.basics.variativeinst</module>
+    <module>com.sphenon.components.basics.doclet</module>
+    <module>com.sphenon.components.basics.xml</module>
+    <module>com.sphenon.components.formats.json</module>
+    <module>com.sphenon.components.formats.yaml</module>
+    <module>com.sphenon.components.engines.factorysite</module>
+    <module>com.sphenon.components.engines.generator</module>
+    <module>com.sphenon.components.basics.xmlbindings</module>
+    <module>com.sphenon.components.basics.docletjavadoc</module>
   </modules>
 
 </project>
