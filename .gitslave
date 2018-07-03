@@ -37,3 +37,4 @@
 "git@github.com:616c/java-com.sphenon.components.basics.xml.git" "com.sphenon.components.basics.xml"
 "git@github.com:616c/java-com.sphenon.components.formats.json.git" "com.sphenon.components.formats.json"
 "git@github.com:616c/java-com.sphenon.components.formats.yaml.git" "com.sphenon.components.formats.yaml"
+"git@github.com:616c/java-com.sphenon.components.engines.factorysite.git" "com.sphenon.components.engines.factorysite"
