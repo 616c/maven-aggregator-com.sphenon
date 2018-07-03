@@ -26,3 +26,4 @@
 "git@github.com:616c/java-com.sphenon.components.basics.locating.git" "com.sphenon.components.basics.locating"
 "git@github.com:616c/java-com.sphenon.components.basics.actor.git" "com.sphenon.components.basics.actor"
 "git@github.com:616c/java-com.sphenon.components.basics.aspects.git" "com.sphenon.components.basics.aspects"
+"git@github.com:616c/java-com.sphenon.components.basics.security.git" "com.sphenon.components.basics.security"
