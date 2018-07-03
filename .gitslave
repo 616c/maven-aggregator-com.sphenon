@@ -1,3 +1,4 @@
 "git@github.com:616c/java-com.sphenon.components.basics.context.git" "com.sphenon.components.basics.context"
 "git@github.com:616c/maven-parent-com.sphenon.git" "com.sphenon.sphenon-module"
 "git@github.com:616c/java-com.sphenon.components.basics.reference.git" "com.sphenon.components.basics.reference"
+"git@github.com:616c/java-com.sphenon.components.basics.variatives.git" "com.sphenon.components.basics.variatives"
