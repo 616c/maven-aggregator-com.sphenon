@@ -38,3 +38,4 @@
 "git@github.com:616c/java-com.sphenon.components.formats.json.git" "com.sphenon.components.formats.json"
 "git@github.com:616c/java-com.sphenon.components.formats.yaml.git" "com.sphenon.components.formats.yaml"
 "git@github.com:616c/java-com.sphenon.components.engines.factorysite.git" "com.sphenon.components.engines.factorysite"
+"git@github.com:616c/java-com.sphenon.components.engines.generator.git" "com.sphenon.components.engines.generator"
