@@ -57,6 +57,12 @@
     <module>com.sphenon.components.engines.generator</module>
     <module>com.sphenon.components.basics.xmlbindings</module>
     <module>com.sphenon.components.basics.docletjavadoc</module>
+    <module>com.sphenon.components.basics.editor</module>
+    <module>com.sphenon.components.basics.processing</module>
+    <module>com.sphenon.components.basics.state</module>
+    <module>com.sphenon.components.basics.space</module>
+    <module>com.sphenon.components.basics.monitoring</module>
+    <module>com.sphenon.components.basics.quantities</module>
   </modules>
 
 </project>
